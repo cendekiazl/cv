@@ -1,0 +1,165 @@
+/* div{
+  background-color: #beebe9;
+
+} */
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #beebe9;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 4.375rem;
+  /* margin-top: 20px auto 0 auto; */
+  color: #3d84a8;
+}
+
+h4 {
+  color: #3d84a8;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  color: #3d84a8;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #3d84a8;
+  font-size: 20px;
+}
+
+hr{
+  border: dotted #b2dffb 10px;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+  margin: 100px auto;
+  width: 5%;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+p {
+  color: #333366;
+  /* font-size: 15px */
+  line-height: 2;
+}
+
+a{
+  color: #3f72af;
+  margin: 10px 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container{
+  background-color: #a8d8ea;
+  margin-bottom: 0px;
+  padding: 50px 0 20px;
+}
+
+.intro{
+  width: 40%;
+  margin: auto;
+
+}
+
+.swords{
+padding-top: 20px ;
+}
+
+.Hello{
+  padding-top: 10px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 35px auto 100px auto;
+  text-align: left;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.bot-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 320px;
+}
+
+.cendekiafoto {
+  width: 5%;
+}
+
+.img1 {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 0px;
+}
+
+.img2 {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+
+.btn{
+	box-shadow: 0px 10px 14px -7px #1aa3b8;
+	background:linear-gradient(to bottom, #32baeb 5%, #256973 100%);
+	background-color:#32baeb;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:22px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #757575;
+  margin-bottom: 60px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#256973;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+/* .pskills-heading{
+  clear: left;
+  padding-top: 15px;
+} */
+
+/* .pskills{
+  clear: left;
+} */
+
+/* .hobbies-heading{
+  clear: right;
+}
+
+.hobbies{
+  clear: right;
+} */
